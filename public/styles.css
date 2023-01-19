@@ -1,0 +1,15 @@
+.main-container {
+  margin-top: 40px;
+
+  max-width: 500px;
+}
+
+.main-container__header {
+  font-size: 20px;
+}
+
+.address-block {
+  border: 1px solid #CCCCCC;
+  padding: 10px;
+  margin-top: 20px;
+}
